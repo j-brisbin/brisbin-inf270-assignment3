@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BrisbinAssignment3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_high_score">Submit Your High Score!</string>
+    <string name="title_activity_top_scores">Game High Scores</string>
+    <string name="score_prompt">Your Total Score is:</string>
+    <string name="name_prompt">Enter Your Name:</string>
+    <string name="action_user_top5_high_scores">My Top 5 High Scores</string>
+    <string name="action_overall_top5_high_scores">Overall Top 5 High Scores</string>
+</resources>
